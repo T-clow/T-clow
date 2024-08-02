@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 ・ Ruby on Railsを中心に学習中です。
 
 ## Skills
