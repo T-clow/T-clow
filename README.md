@@ -1,5 +1,5 @@
 ## Hi there 👋 
-・ Ruby on Railsを中心に学習中です。
+・ Ruby on Railsを中心に学習中です
 
 ## Skills
 <p align="left">
