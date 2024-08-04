@@ -1,5 +1,6 @@
 ## Hi there 👋 
 ・ Ruby on Railsを中心に学習中です
+・ Java Scriptを再度復習中です
 
 ## Skills
 <p align="left">
