@@ -1,7 +1,7 @@
 ## Hi there 👋 
-・ Ruby on Railsを中心に学習中です  
- 
-~学習予定~  
+・ Ruby on Railsを中心に学習中です   
+
+⭐️学習予定⭐️  
 JavaScript 復習  
 vue.js  
 Ract及びTypeScript    
