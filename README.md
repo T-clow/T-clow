@@ -3,7 +3,7 @@
 
 ⭐️学習予定⭐️  
 
-・ JavaScript 復習  
+・ JavaScript 復習 ←現在ここ 
 ・ vue.js  
 ・ Ract及びTypeScript    
 ・ PHP  
