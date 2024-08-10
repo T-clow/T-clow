@@ -1,9 +1,8 @@
 ## Hi there 👋 
 ・ Ruby on Railsを中心に学習中です   
+・ JavaScript 復習中
 
 ⭐️学習予定⭐️  
-
-・ JavaScript 復習 ←現在ここ 
 ・ vue.js  
 ・ Ract及びTypeScript    
 ・ PHP  
