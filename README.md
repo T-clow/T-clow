@@ -6,7 +6,7 @@
 ・ vue.js  
 ・ Ract及びTypeScript    
 ・ PHP  
-・ Java
+・ Java  
 ・ Node.js   
 
 ## Skills
