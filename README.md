@@ -2,6 +2,7 @@
 ・ Ruby on Railsを中心に学習中です。   
 ・ これまでバックエンド中心でしたのでJavaScript 復習中です。  
 
+
 ⭐️学習予定⭐️  
 ・ vue.js  
 ・ Ract及びTypeScript    
