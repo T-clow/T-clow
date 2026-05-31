@@ -1,14 +1,5 @@
 ## Hi there 👋 
-・ Ruby on Railsを中心に学習中です。   
-・ これまでバックエンド中心でしたのでJavaScript 復習中です。  
-
-
-⭐️学習予定⭐️  
-・ vue.js  
-・ Ract及びTypeScript    
-・ PHP  
-・ Java  
-・ Node.js   
+・ 2年目のジュニアレベルのエンジニアです。スキルアップ、年収アップを目指して学習中です。
 
 ## Skills
 <p align="left">
