@@ -7,6 +7,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T-clow&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-clow&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-clow&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=T-clow&theme=gruvbox)
